@@ -26,6 +26,7 @@ My-First-site/
 
 - HTML5
 - CSS3
+- Bootstrap
 - Git & GitHub
 - GitHub Pages for deployment
 
@@ -38,7 +39,7 @@ My-First-site/
 1. Clone the repository:
    git clone https://github.com/pavani284/My-First-site.git
    
-2. Open `poster.html` in your browser.
+2. Open `index.html` in your browser.
 
 3. Or visit the live demo link provided above.
 
